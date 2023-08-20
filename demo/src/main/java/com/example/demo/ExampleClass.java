@@ -6,4 +6,6 @@ public class ExampleClass {
 	
 	String address;
 	
+	String phoneNumber;
+	
 }
