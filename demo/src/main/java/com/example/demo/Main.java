@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("Prueba print pantalla");
 		
 		System.out.println("Probando CI");
+		
+		System.out.println("Probando CI");
 
 	}
 }
